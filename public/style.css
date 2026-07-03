@@ -1,0 +1,3 @@
+body { background: #f4f7fb; }
+.card { border: none; }
+#alert { transition: opacity 0.25s ease-in-out; }
